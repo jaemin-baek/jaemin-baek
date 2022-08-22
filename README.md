@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+Hi There 👋 I'm a Android developer.
+
+My main skills are Kotlin, Java and Android Media Framework 
+
+In the past, I also did iOS(swift1.2, objective-c) and server development(PHP, Node.js)
+
+I'm a persistent person, who study hard day and night for be a good developer.🧑‍💻
 
 
 ## 👾 Hello World!
@@ -30,3 +39,4 @@ Here are some ideas to get you started:
 [![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 [![android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
 [![ios](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/ios/)
+</div>
