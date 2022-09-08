@@ -1,41 +1,25 @@
-<!--
-### Hi there 👋
 
-**jaemin-baek/jaemin-baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-Hi There! I'm a Android developer.
+### 2017 ~ NOW
+[![android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
+[![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
-My main skills are Kotlin, Java and Android Media Framework 
-
-In the past, I also did iOS(swift1.2, objective-c) and server development(PHP, Node.js)
-
-I'm a persistent person, who study hard day and night for be a good developer. 🌱
-
-
-### 🧑‍💻
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin-baek&layout=compact&exclude_repo=jaemin-baek.github.io)
-
-### My Tech Stack
+### 2015 ~ 2017
 [![android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
 [![ios](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/ios/)
-  
-[![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![java](https://img.shields.io/badge/Java-0095D5?style=flat&logo=OpenJDK&logoColor=white)](https://openjdk.org/)
 [![swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-[![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![objective-c](https://img.shields.io/badge/Objective_C-FA7343?style=flat&logo=apple&logoColor=white)](https://developer.apple.com/)
+
+### 2014 ~ 2015
+[![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)]()
+[![css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)]()
 [![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
-  
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)]()
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin-baek&layout=compact&exclude_repo=jaemin-baek.github.io)
 </div>
