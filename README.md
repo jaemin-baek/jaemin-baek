@@ -21,5 +21,5 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)]()
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin-baek&layout=compact&exclude_repo=jaemin-baek.github.io)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin-baek&layout=compact&exclude_repo=jaemin-baek.github.io) -->
 </div>
